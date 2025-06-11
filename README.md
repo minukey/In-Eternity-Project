@@ -2,4 +2,4 @@
 
 # In-Eternity Project
 
-This repository contains the data files and project of the work in progress game In-Eternity to be used in Unreal Engine 4.
+This repository contains the data files and project of the in development game In-Eternity, built in Unreal Engine 4.
